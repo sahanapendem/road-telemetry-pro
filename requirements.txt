@@ -2,3 +2,5 @@ opencv-python-headless
 ultralytics
 requests
 pandas
+streamlit-webrtc
+av
